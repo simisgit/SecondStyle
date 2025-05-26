@@ -35,5 +35,6 @@
 
 ---
 
-## PlantUML-Komponenten-Diagramm
+## Komponenten-Diagramm
 
+![Komponenten-Diagramm](Komponenten-Diagramm.png)
