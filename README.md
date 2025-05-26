@@ -2,7 +2,7 @@
 
 **SecondStyle** ist eine digitale Plattform für den nachhaltigen Kauf, Verkauf und Tausch von Kleidung und Accessoires. Ziel des Projekts ist es, ein nutzerfreundliches und sicheres Umfeld zu schaffen, das bewussten Modekonsum fördert und den Lebenszyklus von Kleidung verlängert.
 
-Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau des Projektes. Sie enthält sowohl die einzelnen Diagramme der Modellierung als auch weiterführende Dokumentationen, die wichtige Einblicke in unsere Entwicklungsprozesse und die theoretischen Grundlagen geben.
+Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau des Projektes. Sie enthält die einzelnen Aufgaben und weiterführende Dokumentationen.
 
 ---
 
