@@ -17,7 +17,7 @@
 ---
 
 
-##   <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="Google Cloud" width="25" style="margin-right: 8px;">GCP Produkte und Konfiguration
+##   <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" alt="Google Cloud" width="25">&nbsp;  GCP Produkte und Konfiguration
 
 ### 1️⃣ Google Kubernetes Engine (GKE)
 
