@@ -1,6 +1,6 @@
 # SecondStyle
 
-**SecondStyle** ist eine digitale Plattform für den nachhaltigen Kauf, Verkauf und Tausch von Second-Hand-Kleidung und Accessoires. Ziel des Projekts ist es, ein nutzerfreundliches und sicheres Umfeld zu schaffen, das bewussten Modekonsum fördert und den Lebenszyklus von Kleidung verlängert.
+**SecondStyle** ist eine digitale Plattform für den nachhaltigen Kauf, Verkauf und Tausch von Kleidung und Accessoires. Ziel des Projekts ist es, ein nutzerfreundliches und sicheres Umfeld zu schaffen, das bewussten Modekonsum fördert und den Lebenszyklus von Kleidung verlängert.
 
 Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau des Projektes. Sie enthält sowohl die einzelnen Diagramme der Modellierung als auch weiterführende Dokumentationen, die wichtige Einblicke in unsere Entwicklungsprozesse und die theoretischen Grundlagen geben.
 
@@ -9,7 +9,7 @@ Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau de
 ## Wichtige Links
 
 Links zu GitHub: <br>
-https://github.com/LiBenn349/Siedler-von-Catan
+https://github.com/simisgit/Secondstyle
  
 ---
 
