@@ -89,7 +89,6 @@ package "SecondStyle System" {
     Moderation --> Messaging : REST
 }
 
-' Jetzt das Paket der externen Adapter, nach dem System-Paket
 package "Externe Adapter" {
     [Stripe Adapter] as Stripe
     [Twilio Adapter] as Twilio
@@ -100,7 +99,7 @@ package "Externe Adapter" {
     Notification --> SendGrid : E-Mail
 }
 
-' Optional: Unsichtbare Verbindung von einem Service zu einem Adapter, um die vertikale Reihenfolge zu fixieren
+Nur für Design!
 Payment -[hidden]-> Stripe
 @enduml
 ```
