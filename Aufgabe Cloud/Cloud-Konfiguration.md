@@ -43,7 +43,7 @@
 - **Kosten pro Monat:** **766,32 $**
 
 #### MongoDB & Elasticsearch  
-*(Mongo: Auth DB, Like DB | ES: Suche DB)*
+*(Mongo: Messaging DB, Like DB | ES: Suche DB)*
 
 - **Produkt:** Kubernetes Engine  
 - **Node-Typ:** `e2-custom` (2 vCPU, 5 GiB RAM)  
