@@ -48,17 +48,18 @@ Wir entscheiden uns für eine relationale Datenbank (PostgreSQL).
 #### Konsequenzen:
 
 *   **Positive:**
-    *   Hohe Datenkonsistenz und Zuverlässigkeit.
-    *   Einfache Abbildung komplexer Datenbeziehungen, da tabellarische Datensätze
-    *   Gute Unterstützung durch das Entwicklerteam.
+    *   Hohe Datenkonsistenz und Zuverlässigkeit bei Transaktionen, Profilspeicherung, etc.
+    *   Einfach Abbildung komplxer Datenbeziehungen und einfache Speicherung aufgrund tabellarischer Datenstrukturen
+    *   Gute Unterstützung durch das Entwicklerteam
 *   **Negative:**
-    *   Skalierung kann komplexer sein als bei NoSQL-Datenbanken
+    *   Skalierung ist schwieriger
     *   komplexe Abfragen
-    *   Weniger flexibel bei Änderungen des Datenmodells.
+    *   Weniger flexibel bei Änderungen des Datenmodells
 
 #### Alternativen:
 
-*   **NoSQL-Datenbank (MongoDB):** 
+*   **NoSQL-Datenbank (MongoDB):**
+*   ALs ALternative kann eine nicht-relationale Datenbak gewählt werden. Diese ist geeignet für schnell wachsenden Datenmengen ohne Schema, mit Fokus auf die Flexibilität bei Abfragen und in der Skalierung.
 
 ### ADR-2: Wahl der Authentifizierungsmethode
 
