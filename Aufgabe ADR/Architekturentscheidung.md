@@ -58,8 +58,8 @@ Wir entscheiden uns für eine relationale Datenbank (PostgreSQL).
 
 #### Alternativen:
 
-*   **NoSQL-Datenbank (MongoDB):**
-*   ALs ALternative kann eine nicht-relationale Datenbak gewählt werden. Diese ist geeignet für schnell wachsenden Datenmengen ohne Schema, mit Fokus auf die Flexibilität bei Abfragen und in der Skalierung.
+**NoSQL-Datenbank (MongoDB):**
+ALs ALternative kann eine nicht-relationale Datenbak gewählt werden. Diese ist geeignet für schnell wachsenden Datenmengen ohne Schema, mit Fokus auf die Flexibilität bei Abfragen und in der Skalierung.
 
 ### ADR-2: Wahl der Authentifizierungsmethode
 
