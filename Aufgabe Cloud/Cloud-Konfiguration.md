@@ -22,7 +22,7 @@
 ### 1️⃣ Google Kubernetes Engine (GKE)
 
 - **Region:** Frankfurt (`europe-west3`)  
-- **Node-Typ:** `e2-medium` (4 vCPU, 8 GiB RAM)  
+- **Node-Typ:** `e2-custom` (4 vCPU, 8 GiB RAM)  
 - **Anzahl Nodes:** 4  
 - **Autoscaling:** Aktiviert  
 - **Kosten pro Monat:** **514,84 $**
@@ -46,7 +46,7 @@
 *(Mongo: Auth DB, Like DB | ES: Suche DB)*
 
 - **Produkt:** Kubernetes Engine  
-- **Node-Typ:** `e2` (1 vCPU, 3,75 GiB RAM)  
+- **Node-Typ:** `e2-custom` (1 vCPU, 3,75 GiB RAM)  
 - **Region:** Frankfurt  
 - **Anzahl Nodes:** 3  
 - **Betriebssystem:** Ubuntu  
