@@ -26,7 +26,7 @@ package "SecondStyle System" {
     component "Bestell Service" as Bestell
     component "Artikel Suche Service" as ArtikelSuche
     component "Zahlungsservice" as Payment
-    component "Versandservice" as Shipping
+    component "Versand Service" as Shipping
     component "Bewertungsservice" as Review
     component "Like Service" as Like
     component "Messaging Service" as Messaging
@@ -92,7 +92,7 @@ package "SecondStyle System" {
     Monitoring ..> Auth : Logs
     Monitoring ..> Artikel : Logs
     Monitoring ..> Payment : Logs
-    Monitoring ..> Versandservice : Logs
+    Monitoring ..> Shipping: Logs
     Monitoring ..> Review : Logs
     Monitoring ..> Messaging : Logs
     Monitoring ..> Notification : Logs
