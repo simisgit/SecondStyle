@@ -8,7 +8,6 @@ Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau de
 
 ## Ordnerstruktur
 
-|--------Abgabe <br>
 |<br>
 |----Aufgabe ADR<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--Aufgabe.png<br>
@@ -22,7 +21,7 @@ Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau de
 |<br>
 |----Aufgabe Konzept<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--Aufgabe.pdf<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|--konzept.ipynb<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Konzept.ipynb<br>
 |<br>
 |<br>
 |----Aufgabe Microservice<br>
@@ -32,8 +31,6 @@ Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau de
 &nbsp;&nbsp;&nbsp;&nbsp;|--PlantUML-Code.md<br>
 |<br>
 |<br>
-|----data_dictionary.ipynb --> enthält data dictionary und erweiternde Tabelle, die als Basis für das Klassendiagramm diente<br>
-|----use_cases.ipynb --> enthält die Use-Case-Beschreibungen<br>
 <br>
 
 ---
