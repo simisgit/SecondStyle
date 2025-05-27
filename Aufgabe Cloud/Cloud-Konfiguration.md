@@ -46,11 +46,11 @@
 *(Mongo: Auth DB, Like DB | ES: Suche DB)*
 
 - **Produkt:** Kubernetes Engine  
-- **Node-Typ:** `e2-custom` (1 vCPU, 3,75 GiB RAM)  
+- **Node-Typ:** `e2-custom` (2 vCPU, 5 GiB RAM)  
 - **Region:** Frankfurt  
-- **Anzahl Nodes:** 3  
+- **Anzahl Nodes:** 2  
 - **Betriebssystem:** Ubuntu  
-- **Kosten pro Monat:** **200,70 $**
+- **Kosten pro Monat:** **208,43 $**
 
 #### Memorystore (Redis Cluster)
 
@@ -104,10 +104,10 @@
 
 ## Gesamtkosten pro Monat
 
-**1.804,06 $**
+**1.811,79 $**
 
 ---
 
 ## 🔗 Link zur GCP-Konfiguration
 
-[Cloud Pricing Calculator](https://cloud.google.com/products/calculator?dl=CjhDaVE1TWpZeU5URmpNQzAzTldVMExUUTNNR0l0T0RBMll5MWxOVEZoTW1FeVkyVTNOMk1RQVE9PRAPGiQxQ0RDQTNGNi04NTlELTQ1MTMtQjhCRS1DNTM1RDYzNTEyNUI)
+[Cloud Pricing Calculator](https://cloud.google.com/products/calculator?dl=CjhDaVE0WXpJell6ZGxNUzFrTm1NM0xUUTRNVEF0T1dNNFl5MWxOalF6WldJd1pXWmhZV1VRQVE9PRAPGiRGQzdBREJCNy1FRDA1LTRBRkQtQkM4Mi1FMzFGMDU0QkY0OUU)
