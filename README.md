@@ -8,7 +8,6 @@ Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau de
 
 ## Ordnerstruktur
 
-|<br>
 |----Aufgabe ADR<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--Aufgabe.png<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--Architekturentscheidung.md<br>
@@ -29,8 +28,6 @@ Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau de
 &nbsp;&nbsp;&nbsp;&nbsp;|--Komponenten-Diagramm.png<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--Microservice-Architektur.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--PlantUML-Code.md<br>
-|<br>
-|<br>
 <br>
 
 ---
