@@ -25,6 +25,8 @@ Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau de
 |<br>
 |----Aufgabe Microservice<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--Aufgabe.png<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--architektur_alles.png<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--architektur_alles.txt<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--Komponenten-Diagramm.png<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--Microservice-Architektur.md<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--PlantUML-Code.md<br>
