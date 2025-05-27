@@ -20,7 +20,7 @@ Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau de
 |<br>
 |----Aufgabe Konzept<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|--Aufgabe.pdf<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|--Konzept.ipynb<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Konzept.md<br>
 |<br>
 |<br>
 |----Aufgabe Microservice<br>
