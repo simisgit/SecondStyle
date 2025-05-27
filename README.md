@@ -6,30 +6,30 @@ Die nachfolgende Ordnerstruktur bietet eine klare Übersicht über den Aufbau de
 
 ---
 
-## Wichtige Links
-
-Links zu GitHub: <br>
-https://github.com/simisgit/Secondstyle
- 
----
-
 ## Ordnerstruktur
 
 |--------Abgabe <br>
 |<br>
-|----Images<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|--Kanbanboard.png<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|--Klassendiagramm.png<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|--Sequenzdiagramm.png<br>
+|----Aufgabe ADR<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Aufgabe.png<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Architekturentscheidung.md<br>
 |<br>
 |<br>
-|----plantUML<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|--klassendiagramm.txt --> beinhaltet plantUML-Link und plantUML-Code für das Klassendiagramm<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|--sequencediagramm.txt --> beinhaltet plantUML-Link und plantUML-Code für das Sequenzdiagramm<br>
+|----Aufgabe Cloud<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Aufgabe.png<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Cloud-Konfiguration.md --> beinhaltet plantUML-Link und plantUML-Code für das Sequenzdiagramm<br>
 |<br>
 |<br>
-|----Rules<br>
-&nbsp;&nbsp;&nbsp;&nbsp;|--CATAN_Spielregeln.pdf --> Offizielle Spielregeldatei des Herausgebers des Spieles<br>
+|----Aufgabe Konzept<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Aufgabe.pdf<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--konzept.ipynb<br>
+|<br>
+|<br>
+|----Aufgabe Microservice<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Aufgabe.png<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Komponenten-Diagramm.png<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--Microservice-Architektur.md<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|--PlantUML-Code.md<br>
 |<br>
 |<br>
 |----data_dictionary.ipynb --> enthält data dictionary und erweiternde Tabelle, die als Basis für das Klassendiagramm diente<br>
