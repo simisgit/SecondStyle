@@ -22,10 +22,10 @@
 ### 1️⃣ Google Kubernetes Engine (GKE)
 
 - **Region:** Frankfurt (`europe-west3`)  
-- **Node-Typ:** `e2-medium` (1 vCPU, 2 GiB RAM)  
-- **Anzahl Nodes:** 15  
+- **Node-Typ:** `e2-medium` (4 vCPU, 8 GiB RAM)  
+- **Anzahl Nodes:** 4  
 - **Autoscaling:** Aktiviert  
-- **Kosten pro Monat:** **500,72 $**
+- **Kosten pro Monat:** **514,84 $**
 
 ---
 
@@ -104,10 +104,10 @@
 
 ## Gesamtkosten pro Monat
 
-**1.789,94 $**
+**1.804,06 $**
 
 ---
 
 ## 🔗 Link zur GCP-Konfiguration
 
-[Cloud Pricing Calculator](https://cloud.google.com/products/calculator?dl=CjhDaVE1WkRZMk16TmtOeTB5WXpFeUxUUmpZVEF0T0RBME1DMWpaREF6WlRJM1lqQXpOR1FRQVE9PRAPGiQxQ0RDQTNGNi04NTlELTQ1MTMtQjhCRS1DNTM1RDYzNTEyNUI)
+[Cloud Pricing Calculator](https://cloud.google.com/products/calculator?dl=CjhDaVE1TWpZeU5URmpNQzAzTldVMExUUTNNR0l0T0RBMll5MWxOVEZoTW1FeVkyVTNOMk1RQVE9PRAPGiQxQ0RDQTNGNi04NTlELTQ1MTMtQjhCRS1DNTM1RDYzNTEyNUI)
